@@ -13,3 +13,6 @@
 # 히트맵
 ![image](https://github.com/user-attachments/assets/76f62a82-2da7-4c60-a3f6-ec22eab8f1fc)
 
+# 변수 중요도 분석
+![image](https://github.com/user-attachments/assets/4f06e179-2120-4b0d-a916-86aaa224009c)
+
