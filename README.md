@@ -9,3 +9,7 @@
 
 # 정확도 파악
 ![image](https://github.com/user-attachments/assets/f845e6d2-7d48-4a02-9457-602217ed816d)
+
+# 히트맵
+![image](https://github.com/user-attachments/assets/76f62a82-2da7-4c60-a3f6-ec22eab8f1fc)
+
